@@ -1,0 +1,2 @@
+# Instalación de la librería de Python para conectar con el servicio local
+ollama>=0.1.7
